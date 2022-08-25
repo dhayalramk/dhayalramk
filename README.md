@@ -28,7 +28,7 @@ __I am *Dhayal Ram* a Software Engineer. I am very much interested in contributi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhayalramk&layout=compact" alt="dhayalramk_stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhayalramk&" alt="dhayalramk_stats"/>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aakarshteja" alt="Aakarsh Teja Profile visits" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dhayalramk" alt="Dhayal Ram Profile visits" /></p>
 
 
 <!--
