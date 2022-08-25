@@ -18,8 +18,8 @@ __I am *Dhayal Ram* a Software Engineer. I am very much interested in contributi
 - 📫 You can reach me at: <a href="mailto:dhayalram.k@gmail.com">dhayalram.k@gmail.com</a>
 
 ### Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/aakarshteja-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhayalram/)
-[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/dhayalintech/)
+[<img src="https://img.shields.io/badge/dhayalramk-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhayalram/)
+[<img src = "https://img.shields.io/badge/dhayalramk-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/dhayalintech/)
 
 
 ### Stats 📊
