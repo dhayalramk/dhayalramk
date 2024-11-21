@@ -15,7 +15,7 @@ __I am *Dhayal Ram* a Software Engineer. I am very much interested in contributi
 ### About Me🤓
 
 - 🔭 I’m currently working for Informatica.
-- 🌱 I’m currently learning Cloud,Blockchain.
+- 🌱 I’m currently learning Cloud, Blockchain.
 - 🏫  Want to good at Problem Solving.
 - 📫 You can reach me at: <a href="mailto:dhayalram.k@gmail.com">dhayalram.k@gmail.com</a>
 
