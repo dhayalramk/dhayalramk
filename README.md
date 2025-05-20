@@ -8,7 +8,7 @@ __I am *Dhayal Ram*, a Software Engineer. I am very much interested in contribut
 
 ### 🏆 Achievements
 
-<img src="https://github.com/dhayalramk/dhayalramk/blob/main/50DaysBadge2025_logo.gif" width="250"/>
+<img src="https://github.com/dhayalramk/dhayalramk/blob/main/50DaysBadge2025_logo.gif" width="125"/>
 
 > 🗓️ Solved problems 50+ days in 2025! Staying consistent and pushing forward 💪
 
